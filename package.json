@@ -1,0 +1,28 @@
+{
+  "name": "aliyun-oss-deployer",
+  "version": "1.0.0",
+  "description": "阿里云 OSS 网站部署工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muchencute/aliyun-oss-deployer.git"
+  },
+  "keywords": [
+    "oss",
+    "aliyun",
+    "deployer",
+    "web",
+    "html",
+    "javascript",
+    "css"
+  ],
+  "author": "nothingmi@muchencute.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muchencute/aliyun-oss-deployer/issues"
+  },
+  "homepage": "https://github.com/muchencute/aliyun-oss-deployer#readme"
+}
